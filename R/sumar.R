@@ -1,4 +1,4 @@
-#' Sum two scalars
+#' Sum of the two scalars
 #'
 #' @param x First element to sum.
 #' @param y Second element to sum.
