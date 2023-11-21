@@ -1,8 +1,8 @@
-#' Sum of the two scalars
+#' Sum two scalars
 #'
-#' @param x First element to sum.234
+#' @param x First element to sum.
 #' @param y Second element to sum.
-#' @param Negative TRUE if the two elements are subtracted.
+#' @param Negative TRUE if the elements to subtract.
 #'
 #' @return The sum of the two elements.
 #' @export
