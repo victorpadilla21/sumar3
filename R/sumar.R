@@ -1,6 +1,6 @@
 #' Sum of the two scalars
 #'
-#' @param x First element to sum.
+#' @param x First element to sum.2
 #' @param y Second element to sum.
 #' @param Negative TRUE if the two elements are subtracted.
 #'
